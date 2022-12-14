@@ -1,0 +1,1710 @@
+1. J Food Sci Technol. 2020 Feb;57(2):578-587. doi: 10.1007/s13197-019-04089-7. 
+Epub 2019 Sep 11.
+
+Evaluation of safety and probiotic properties of a strain of Enterococcus 
+faecium isolated from chicken bile.
+
+Shi Y(1)(2), Zhai M(1)(2), Li J(3), Li B(1)(2).
+
+Author information:
+(1)1College of Animal Science and Veterinary Medicine, Shandong Agricultural 
+University, Tai'an, 271018 China.
+(2)Shandong Provincial Key Laboratory of Animal Biotechnology and Disease 
+Control and Prevention, Tai'an, 271018 China.
+(3)3College of Biology and Brewing Engineering, Taishan University, Tai'an, 
+271021 China.
+
+Probiotics are important bacteria due to their benefit on human health. In this 
+study, four strains of lactic acid bacteria from chicken bile were isolated and 
+the strain with the best antimicrobial activity was selected for further 
+identification and evaluation on its probiotic traits and safety. The strain was 
+identified as Enterococcus faecium by biochemical characterization and 16S rDNA 
+gene sequencing. The strain, named E. faecium MK-SQ-1, was tolerant to acid (pH 
+3.0), bile salts (up to 0.3%) or trypsin (up to 0.4%) for 3 h and it was able to 
+survive from high temperature (up to 60 °C) for 15 min. This strain inhibited 
+the growth of Salmonella enteritidis and Staphylococcus aureus intermediately. 
+The genes responsible for virulence including asa1, cylA, efaA, esp, gelE and 
+hyl were absent and the mice administrated orally with a very high dose (2 × 109 
+CFU) of the strain daily for 35 days were not found abnormal. The strain 
+enhanced the serum IgG level and phagocytic index of mice significantly by daily 
+oral administration at a high dose (2 × 108 CFU) for 21 days (p < 0.05). The 
+strain did not have multi-antibiotic resistance and vancomycin resistance. 
+Comprehensive evaluation showed E. faecium MK-SQ-1 could be a candidate as a 
+probiotic strain used in human or animals.
+
+© Association of Food Scientists & Technologists (India) 2019.
+
+DOI: 10.1007/s13197-019-04089-7
+PMCID: PMC7016052
+PMID: 32116367
+
+
+2. Arch Tierernahr. 2001;54(1):1-17. doi: 10.1080/17450390109381962.
+
+Growth behaviour of a spore forming probiotic strain in the gastrointestinal 
+tract of broiler chicken and piglets.
+
+Jadamus A(1), Vahjen W, Simon O.
+
+Author information:
+(1)Institute of Animal Nutrition, Faculty of Veterinary Medicine, Free 
+University Berlin, Brümmerstrasse 34, D-14195 Berlin, Germany. 
+jadamus@zedat.fu-berlin.de
+
+The growth behaviour of the probiotic strain Bacillus cereus var. toyoi in the 
+gastrointestinal tract of broiler chicken and suckling piglets was evaluated. 
+The strain germinated rapidly in intestinal samples from both animal species. 
+Less than 10% of spores were recovered from the chicken crop and piglet stomach, 
+respectively. Lumen samples and mucosal tissues from the hind gut of piglets 
+displayed increasing colonization of the probiotic strain throughout the trial 
+period. After oral administration of vegetative cells to broiler chicken and 
+weaned piglets, sporulation was detected in all intestinal samples. The 
+distribution of spore CFU indicated repeated germination and sporulation during 
+the intestinal passage in piglets. B. cereus var. toyoi was not able to colonize 
+the intestinal tract of both animal species. However, the probiotic strain was 
+detected in suckling piglets before uptake of B. cereus var. toyoi supplemented 
+feed. It is concluded that B. cereus var. toyoi germinates rapidly in broiler 
+chicken and piglets, which is a necessary prerequisite for its possible 
+probiotic effects. Germination and in vivo sporulation of vegetative cells 
+indicated that the probiotic strain was metabolically active in the intestine of 
+both animal species.
+
+DOI: 10.1080/17450390109381962
+PMID: 11851013 [Indexed for MEDLINE]
+
+
+3. Probiotics Antimicrob Proteins. 2017 Dec;9(4):415-424. doi: 
+10.1007/s12602-017-9301-y.
+
+Probiotic Characteristics of Lactobacillus curvatus DN317, a Strain Isolated 
+from Chicken Ceca.
+
+Zommiti M(1), Connil N(2), Hamida JB(1), Ferchichi M(3)(4).
+
+Author information:
+(1)Unité de Protéomique Fonctionnelle et Potentiel Nutraceutique de la 
+Biodiversité de Tunisie, Institut Supérieur des Sciences Biologiques Appliquées 
+de Tunis, Université de Tunis El-Manar, 1006, Tunis, Tunisia.
+(2)Laboratoire de Microbiologie Signaux et Microenvironnement (LMSM) EA 4312, 
+Université de Rouen, Normandie Université, 27000, Evreux, France.
+(3)Unité de Protéomique Fonctionnelle et Potentiel Nutraceutique de la 
+Biodiversité de Tunisie, Institut Supérieur des Sciences Biologiques Appliquées 
+de Tunis, Université de Tunis El-Manar, 1006, Tunis, Tunisia. 
+mounir.ferchichi@yahoo.fr.
+(4)College of Applied Medical Sciences, Clinical Laboratory Department, King 
+Faisal University, P.O. Box 401, Al-Ahsa, 31982, Saudi Arabia. 
+mounir.ferchichi@yahoo.fr.
+
+The probiotic characteristics of Lactobacillus curvatus DN317, a strain isolated 
+from chicken ceca, were evaluated. This strain was selected for study from the 
+isolated Lactobacillus strains because it has specific anti-microbial activity 
+against Campylobacter jejuni ATCC 33560, Camp. jejuni NCTC 11168, Listeria 
+monocytogenes ATCC 7644, and Bacillus subtilis ATCC 8633. Lact. curvatus DN317 
+showed an auto-aggregation percentage of 72% and presented the highest 
+co-aggregation with Lact. monocytogenes ATCC 7644 (68%) compared to B. subtilis 
+ATCC 8633 (45%), Camp. jejuni ATCC 33560 (36%), and Camp. jejuni NCTC 11168 
+(35%). The data revealed that Lact. curvatus DN317 could survive at 0.25% bile, 
+maintain viability at pH 2.5 for 30 min, produce biosurfactants, and adhere to 
+Caco-2 cells. Quantification of IL-6, IL-8, IL-10, and β-defensin 2 levels shows 
+that Lact. curvatus DN317 induces an increase in IL-8 and β-defensin 2 
+secretion, while the levels of IL-6 and IL-10 do not change. Lact. curvatus 
+DN317 showed high levels of esterase and cysteine arylamidase activities (5); 
+moderate levels of esterase lipase, β-galactosidase, and α-galactosidase 
+activities (4, 3); and weak levels of leucine arylamidase, valine arylamidase, 
+and acid phosphatase activity (1). Various activities were obtained of 
+α-chymotrypsin, β-glucuronidase, β-glucosidase, and N-acetyl-β-glucosaminidase, 
+which have been associated with intestinal diseases. Lact. curvatus DN317 
+lowered the cholesterol level in MRS with and without bile. Antibiotic 
+susceptibility tests indicated that DN317 was sensitive to ampicillin, 
+gentamicin, kanamycin, streptomycin, tetracycline, clindamycin, erythromycin, 
+and vancomycin but was resistant to chloramphenicol and ciprofloxacin. These 
+results suggest that Lact. curvatus DN317 could potentially function as a 
+probiotic.
+
+DOI: 10.1007/s12602-017-9301-y
+PMID: 28741151 [Indexed for MEDLINE]
+
+
+4. Front Physiol. 2019 Jul 25;10:937. doi: 10.3389/fphys.2019.00937. eCollection 
+2019.
+
+Probiotic Properties of Lactobacillus paracasei subsp. paracasei L1 and Its 
+Growth Performance-Promotion in Chicken by Improving the Intestinal Microflora.
+
+Xu Y(1), Tian Y(1), Cao Y(2), Li J(1), Guo H(1), Su Y(1), Tian Y(1), Wang C(1), 
+Wang T(1), Zhang L(1).
+
+Author information:
+(1)Department of Food Science and Engineering, Jinzhou Medical University, 
+Jinzhou, China.
+(2)Tianwang Animal Health Supervision Institute, Jinzhou Economic and 
+Technological Development Zone, Jinzhou, China.
+
+Lactobacillus paracasei subsp. paracasei L1 was previously isolated from sweet 
+potato sour liquid. This bacterial species specifically binds onto starch 
+granular surfaces, triggering the enzymatic hydrolysis of raw starch. We 
+investigated the functional and safety properties of strain L1 in vitro to 
+establish its probiotic potential, and analyzed its effect on growth performance 
+and intestinal microflora of chicken in feeding experiments. The optimal growth 
+conditions of strain L1 included low pH and high concentrations of bile salts 
+and NaCl. Its 1-, 2-, and 24-h autoaggregation values were 15.8 ± 1.2%, 20.4 ± 
+2.3%, and 47.2 ± 0.8%, respectively, with the surface hydrophobicity value at 
+560 nm of 38.1 ± 2.7%. Further, its adhesion rate to Caco-2 cells was 22.37 ± 
+1.44%. Strain L1 was resistant to erythromycin and azithromycin, but sensitive 
+to other antibiotics tested. For the feeding experiments, 240 chickens with 
+similar weights were randomly divided into a control (C) group and strain L1 (L) 
+group and fed for 8 weeks. Strain L1 promoted the weight gain of chickens in L 
+group. A significant increase in the population size of the two phyla and 23 
+genera in the small intestine was observed in the presence of strain L1 (P < 
+0.05), with 0 phyla and 4 genera showing significant increase in the cecum (P < 
+0.05). In the small intestine, the abundance of six functional genes at Kyoto 
+Encyclopedia of Genes and Genomes (KEGG) level 2 and 49 genes at KEGG level 3 
+was significantly increased in group L (P < 0.05), with lesser changes noted in 
+the cecum. An increase in the metabolic pathway functions, including enzyme 
+families and the digestive system, was observed in the intestinal microbiota in 
+the L group compared to the C group. However, the other metabolic pathway 
+functions, including metabolism of fatty acid biosynthesis, as well as 
+metabolism of glycerolipids and propanoate, increased in the cecal microbiota of 
+the L group relative to the C group. These changes are most likely related to 
+the changes in the gut microbiota composition. Collectively, strain L1 
+supplementation may promote growth performance and improve the intestinal 
+microflora in chicken although further studies are needed to confirm this.
+
+DOI: 10.3389/fphys.2019.00937
+PMCID: PMC6670285
+PMID: 31404251
+
+
+5. J Sci Food Agric. 2019 Jul;99(9):4309-4318. doi: 10.1002/jsfa.9664. Epub 2019 
+Apr 1.
+
+Probiotic microorganisms detoxify ochratoxin A in both a chicken liver cell line 
+and chickens.
+
+Markowiak P(1), Śliżewska K(1), Nowak A(1), Chlebicz A(1), Żbikowski A(2), 
+Pawłowski K(2), Szeleszczuk P(2).
+
+Author information:
+(1)Institute of Fermentation Technology and Microbiology, Faculty of 
+Biotechnology and Food Sciences, Lodz University of Technology, Lodz, Poland.
+(2)Department of Pathology and Veterinary Diagnostics, Faculty of Veterinary 
+Medicine, Warsaw University of Life Sciences - SGGW, Warsaw, Poland.
+
+BACKGROUND: The administration of probiotics and prebiotics (synbiotics) is a 
+promising method for detoxification of ochratoxin A (OTA) in animals. The aim of 
+this study was to investigate the ability of five probiotic strains of lactic 
+acid bacteria (LAB) and one Saccharomyces cerevisiae yeast strain, from three 
+different synbiotics for poultry, to detoxify OTA. In addition, we also 
+investigated the genotoxicity of faecal water (FW) of chickens after 
+administering OTA and/or synbiotics for 42 days.
+RESULTS: All tested LAB and yeast strains had the ability to detoxify OTA by 
+significant (P < 0.05) reducing its concentration (by 31.3-47.7% and 31.9%, 
+respectively, after 24 h incubation) and genotoxicity (by 22.6-51.8% and 52.7%, 
+respectively). Synbiotics composed of four and five probiotic strains 
+significantly (P < 0.05) decreased FW genotoxicity of chicks, after exposure to 
+OTA, to the level seen in the control group (21.8% ± 1.7%) and were more 
+effective than synbiotics composed of three probiotic strains (31.5%).
+CONCLUSION: These results showed that there was a beneficial effect of the 
+synbiotics on the gastrointestinal tract of animals. Furthermore, synbiotic 
+preparations containing four or five of tested strains can be considered as 
+preventive agents in the contamination of poultry with OTA. © 2019 Society of 
+Chemical Industry.
+
+© 2019 Society of Chemical Industry.
+
+DOI: 10.1002/jsfa.9664
+PMID: 30828814 [Indexed for MEDLINE]
+
+
+6. J Mol Microbiol Biotechnol. 2008;14(1-3):115-22. doi: 10.1159/000106090.
+
+Characterization of cecal microbiota and response to an orally administered 
+lactobacillus probiotic strain in the broiler chicken.
+
+Gérard P(1), Brézillon C, Quéré F, Salmon A, Rabot S.
+
+Author information:
+(1)Unité d'Ecologie et Physiologie du Système Digestif, Institut National de la 
+Recherche Agronomique, Jouy-en-Josas, France. philippe.gerard@jouy.inra.fr
+
+A probiotic Lactobacillus strain was given in drinking water to young broiler 
+chickens from 1 to 19 days of age. Cecal contents were collected from 4- and 
+19-day-old chickens in treated and control groups. Enumeration of bacteria by 
+culture on selective media showed a decrease in Clostridium perfringens carriage 
+in the 4-day-old treated chickens, whereas coliforms and Lactobacillus 
+populations were not significantly affected by the treatment. Fluorescent in 
+situ hybridization analysis with 7 phylogenetic probes targeting the major 
+groups of intestinal bacteria revealed that the Clostridium coccoides group 
+accounted for more than 50% of the total bacteria in the cecum of 4-day-old 
+chickens, whereas the bacterial community of 19-day-old chickens evolved towards 
+a more diverse microbiota with Faecalibacterium prausnitzii (36%) and C. 
+coccoides (22%) groups representing the predominant bacteria. No effect of the 
+Lactobacillus strain supplementation was observed in the composition of the 
+cecal microbiota assessed by fluorescent in situ hybridization with the 7 
+probes. Nevertheless, profiling of the cecal microbiota using temporal 
+temperature gradient gel electrophoresis in combination with principal component 
+analysis demonstrated an impact of the probiotic treatment on the overall 
+bacterial community as well as on the Lactobacillus population.
+
+DOI: 10.1159/000106090
+PMID: 17957118 [Indexed for MEDLINE]
+
+
+7. Anim Sci J. 2020 Jan-Dec;91(1):e13436. doi: 10.1111/asj.13436.
+
+Lactobacillus ingluviei C37 from chicken inhibits inflammation in LPS-stimulated 
+mouse macrophages.
+
+Tsukagoshi M(1), Sirisopapong M(2), Namai F(1), Ishida M(1), Okrathok S(2), 
+Shigemori S(1), Ogita T(1), Sato T(1), Khempaka S(2), Shimosato T(1).
+
+Author information:
+(1)Department of Biomolecular Innovation, Institute for Biomedical Sciences, 
+Shinshu University, Nagano, Japan.
+(2)School of Animal Technology and Innovation, Institute of Agricultural 
+Technology, Suranaree University of Technology, Nakhon Ratchasima, Thailand.
+
+Probiotics are growing alternatives to antibiotics, and can contribute to the 
+prevention and treatment of diseases and enhance livestock production. 
+Lactobacillus (L.) ingluviei is a novel probiotic species with 
+growth-enhancement effects; however, this species remains poorly understood, and 
+there have been (to our knowledge) no studies focusing on its immunological 
+effects. Here, we isolated L. ingluviei C37 (LIC37) from chicken and evaluated 
+the bacterium's immunomodulatory properties to explore its probiotic potential. 
+Real-time quantitative PCR and ELISA showed that in vitro exposure of 
+inflammation-stimulated mouse peritoneal macrophages to heat-killed LIC37 led to 
+decreases in tumor necrosis factor-α and interleukin (IL)-6 levels and an 
+increase in IL-10. These findings suggested that LIC37 exerts anti-inflammatory 
+effects by modulating cytokine profiles. This species may be an attractive 
+probiotic bacterial strain for use in animal production.
+
+© 2020 Japanese Society of Animal Science.
+
+DOI: 10.1111/asj.13436
+PMID: 32761774 [Indexed for MEDLINE]
+
+
+8. Animals (Basel). 2020 Sep 2;10(9):1555. doi: 10.3390/ani10091555.
+
+Comparative Effects of Using New Multi-Strain Synbiotics on Chicken Growth 
+Performance, Hematology, Serum Biochemistry and Immunity.
+
+Żbikowski A(1), Pawłowski K(1), Śliżewska K(2), Dolka B(1), Nerc J(1), 
+Szeleszczuk P(1).
+
+Author information:
+(1)Department of Pathology and Veterinary Diagnostics, Institute of Veterinary 
+Medicine, Warsaw University of Life Sciences-SGGW, Nowoursynowska 159c St., 
+02-776 Warsaw, Poland.
+(2)Department of Biotechnology and Food Sciences, Institute of Fermentation 
+Technology and Microbiology, Lodz University of Technology, Wolczanska 171/173, 
+90-924 Lodz, Poland.
+
+In this study, the influence of new multi-strain synbiotics on chicken growth 
+performance, hematology, serum biochemistry and immunity was explored. Each 
+synbiotic preparation (A, B and C) comprised three, four or five strains of 
+Lactobacillus sp., respectively, as well as S. cerevisiae and inulin. All 
+strains used in the synbiotics originated from wild-type strains from animal 
+farms in Poland. Six groups of chickens, ROSS 308 line, were fed with three 
+different synbiotics at a dose of 0.5 g/1 kg of feed. Body weight, as well as 
+the biochemical and hematological parameters of the animals in each study group, 
+were determined on the 7th, 14th, 28th and 42nd day of life. Body weight on day 
+42 differed between groups and was the highest in control group. This group also 
+had the highestfeed conversion ratio (FCR) value. All measured biochemical 
+parameters were in the normal ranges for poultry; however, we observed a lower 
+alkaline phosphatase (AP) concentration on day 7 in the groups fed with 
+synbiotics, which correlated with a lower level of triglycerides in those 
+groups. The aspartate transaminase (AST) concentration was significantly lower 
+in all groups on day 42 in comparison with the control. On day 7, the control 
+group showed the highest concentration of Ca, K and P. Other parameters did not 
+differ significantly throughout the experiment. All groups showed a similar 
+tendency of increase in the red blood cells (RBC) count according to the age of 
+the birds. Every white blood cells (WBC) population showed differences in the 
+proportions between T and B lymphocytes. The T cell and monocyte counts 
+increased until day 28 in all groups. The results showed that our newly 
+developed synbiotic formulas do not have any unfavorable influence on chicken 
+health and may modulate immune response and biochemical parameters. However, 
+this hypothesis needs to be evaluated in future experiments.
+
+DOI: 10.3390/ani10091555
+PMCID: PMC7552141
+PMID: 32887290
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+9. J Microbiol Biotechnol. 2018 Jun 28;28(6):883-892. doi: 10.4014/jmb.1802.02019.
+
+Probiotic Potential of Enterococcus faecium Isolated from Chicken Cecum with 
+Immunomodulating Activity and Promoting Longevity in Caenorhabditis elegans.
+
+Sim I(1)(2), Park KT(3), Kwon G(4), Koh JH(5), Lim YH(1)(4)(6).
+
+Author information:
+(1)Department of Integrated Biomedical and Life Sciences, College of Health 
+Science, Korea University, Seoul 02841, Republic of Korea.
+(2)Department of Clinical Laboratory Science, Kyungdong University, Wonju 26495, 
+Republic of Korea.
+(3)Department of Research and Development Center, Milae Resources ML Co. Ltd., 
+Seoul 05542, Republic of Korea.
+(4)Department of Public Health Science (BK21 PLUS Program), Graduate School, 
+Korea University, Seoul 02841, Republic of Korea.
+(5)Department of Bio-Food Analysis and Processing, Bio-Campus Korea Polytechnic 
+College, Nonsan 32943, Republic of Korea.
+(6)Department of Laboratory Medicine, Korea University Guro Hospital, Seoul 
+08308, Republic of Korea.
+
+Probiotics, including Enterococcus faecium, confer a health benefit on the host. 
+An Enterococcus strain was isolated from healthy chicken cecum, identified as E. 
+faecium by 16S rDNA gene sequence analysis, and designated as E. faecium L11. To 
+evaluate the potential of E. faecium L11 as a probiotic, the gastrointestinal 
+tolerance, immunomodulatory activity, and lifespan extension properties of the 
+strain were assayed. E. faecium L11 showed >66% and >62% survival in artificial 
+gastric juice (0.3% pepsin, pH 2.5) and simulated small intestinal juice (0.5% 
+bile salt and 0.1% pancreatin), respectively. Heat-killed E. faecium L11 
+significantly (p < 0.05) increased immune cell proliferation compared with 
+controls, and stimulated the production of cytokines (IL-6 and TNF-α) by 
+activated macrophages obtained from ICR mice. In addition, E. faecium L11 showed 
+a protective effect against Salmonella Typhimurium infection in Caenorhabditis 
+elegans. In addition, feeding E. faecium L11 significantly (p < 0.05) extended 
+the lifespan of C. elegans compared with the control. Furthermore, genes related 
+to aging and host defense were upregulated in E. faecium L11-fed worms. In 
+conclusion, E. faecium L11, which prolongs the lifespan of C. elegans, may be a 
+potent probiotic supplement for livestock.
+
+DOI: 10.4014/jmb.1802.02019
+PMID: 29642285 [Indexed for MEDLINE]
+
+
+10. PLoS One. 2014 Feb 27;9(2):e90208. doi: 10.1371/journal.pone.0090208. 
+eCollection 2014.
+
+Development of a strain-specific real-time PCR assay for enumeration of a 
+probiotic Lactobacillus reuteri in chicken feed and intestine.
+
+Sattler VA(1), Mohnl M(2), Klose V(1).
+
+Author information:
+(1)University of Natural Resources and Applied Life Sciences, Department for 
+Agrobiotechnology, Tulln, Austria.
+(2)BIOMIN Research Center, Tulln, Austria.
+
+A strain-specific real-time PCR assay was developed for quantification of a 
+probiotic Lactobacillus reuteri (DSM 16350) in poultry feed and intestine. The 
+specific primers were designed based on a genomic sequence of the strain derived 
+from suppression subtractive hybridization with the type strain L. reuteri DSM 
+20016. Specificity was tested using a set of non-target strains from several 
+sources. Applicability of the real-time PCR assay was evaluated in a controlled 
+broiler feeding trial by using standard curves specific for feed and intestinal 
+matrices. The amount of the probiotic L. reuteri was determined in feed from 
+three feeding phases and in intestinal samples of the jejunum, ileum, and caecum 
+of three, 14, and 39 day old birds. L. reuteri DSM 16350 cells were enumerated 
+in all feeds supplemented with the probiotic close to the inclusion rate of 7.0 
+× 10(3) cfu/g, however, were not detected in L. reuteri DSM 16350 free feed. In 
+three day old birds L. reuteri DSM 16350 was only detected in intestinal samples 
+from probiotic fed animals ranging from 8.2 ± 7.8 × 10(5) cfu/g in the jejunum, 
+1.0 ± 1.1×10(7) cfu/g in the ileum, and 2.5 ± 5.7 × 10(5) cfu/g in the caecum. 
+Similar results were obtained for intestinal samples of older birds (14 and 39 
+days). With increasing age of the animals the amount of L. reuteri signals in 
+the control animals, however, also increased, indicating the appearance of 
+highly similar bacterial genomes in the gut microbiota. The L. reuteri DSM 16350 
+qPCR assay could be used in future for feeding trials to assure the accurate 
+inclusion of the supplement to the feed and to monitor it's uptake into the GIT 
+of young chicken.
+
+DOI: 10.1371/journal.pone.0090208
+PMCID: PMC3937354
+PMID: 24587284 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: This work was done in 
+cooperation with the company BIOMIN, who provided the probiotic strain and 
+housing facility for the feeding trial. However, the authors confirm that this 
+does not alter their adherence to all the PLOS ONE policies on sharing data and 
+materials.
+
+
+11. Arch Microbiol. 2021 Mar;203(2):847-853. doi: 10.1007/s00203-020-02088-3. Epub 
+2020 Oct 17.
+
+Inclusion of Lactobacillus salivarius strain revealed a positive effect on 
+improving growth performance, fecal microbiota and immunological responses in 
+chicken.
+
+Sureshkumar S(1)(2), Lee HC(1), Jung SK(1), Kim D(3), Oh KB(1), Yang H(1), Jo 
+YJ(1), Lee HS(1), Lee S(3), Byun SJ(4).
+
+Author information:
+(1)Animal Biotechnology Division, National Institute of Animal Science, Rural 
+Development Administration, 1500, Wanju-gun, 441-706, Republic of Korea.
+(2)Department of Animal Resource and Science, Dankook University, Cheonan-si, 
+Chungnam, 31116, South Korea.
+(3)Department of Integrative Biotechnology, Sungkyunkwan University, 2066, 
+Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea.
+(4)Animal Biotechnology Division, National Institute of Animal Science, Rural 
+Development Administration, 1500, Wanju-gun, 441-706, Republic of Korea. 
+pcs1778@korea.kr.
+
+Probiotics are defined as live microorganisms that when administered in an 
+appropriate amount, provide health benefits to the host. This study aimed to 
+evaluate the effect of the oral administration of Lactobacillus salivarius (L. 
+salivarius) on growth performance, immunological responses, fecal microbial 
+flora and intestinal mucosal morphology in chickens. Chickens were fed with 109 
+colony-forming units (CFUs) of wild-type (WT) L. salivarius or 
+phosphate-buffered saline (PBS) for 5 weeks. Chickens body weight was 
+significantly increased by administration of L. salivarius groups compared than 
+control group. The microbial taxonomy in the small intestine and cecum was 
+identified via the chicken feces sample. A total of 286,331 bacterial species 
+were obtained from the chicken fecal samples in overall experimental group. From 
+these, 145,012 bacterial species were obtained from oral administration of L. 
+salivarius treatment group, while 141,319 bacterial species were obtained from 
+control group. Almost 98% of all 16S rRNA sequences from the chicken fecal 
+sample of the two groups were classified into known phyla. Firmicutes, 
+Cyanobacteria, Proteobacteria, Bacteroidetes and Actinobacteria were highly 
+abundant in both groups. Compared with the control birds, the chickens orally 
+administered L. salivarius showed no significant differences in villus length 
+and crypt length. Serum concentrations of the cytokines IL-8, TNF-α, IFN-γ, and 
+IL-4 were markedly reduced in the L. salivarius group. In summary, our findings 
+reveal that L. salivarius can act as a potential probiotic to improve 
+performance and overall gut health in of chickens.
+
+DOI: 10.1007/s00203-020-02088-3
+PMID: 33068123 [Indexed for MEDLINE]
+
+
+12. Poult Sci. 2020 Jan;99(1):526-535. doi: 10.3382/ps/pez549. Epub 2019 Dec 30.
+
+Antimicrobial peptide presenting potential strain-specific real time polymerase 
+chain reaction assay for detecting the probiotic Lactobacillus reuteri KUB-AC5 
+in chicken intestine.
+
+Sobanbua S(1), Dolkittikul S(1), Nakphaichit M(2), Keawsompong S(2), 
+Nitisinprasert S(3).
+
+Author information:
+(1)Specialized Research Unit: Prebiotics and Probiotics for Health, Department 
+of Biotechnology, Faculty of Agro-Industry, Kasetsart University, Lat Yao, 
+Chatuchak, Bangkok 10900, Thailand.
+(2)Specialized Research Unit: Prebiotics and Probiotics for Health, Department 
+of Biotechnology, Faculty of Agro-Industry, Kasetsart University, Lat Yao, 
+Chatuchak, Bangkok 10900, Thailand; Center for Advanced Studies for Agriculture 
+and Food (CASAF), Kasetsart University Institute for Advanced Studies (NRU-KU), 
+Kasetsart University, Chatuchak, Bangkok 10900, Thailand.
+(3)Specialized Research Unit: Prebiotics and Probiotics for Health, Department 
+of Biotechnology, Faculty of Agro-Industry, Kasetsart University, Lat Yao, 
+Chatuchak, Bangkok 10900, Thailand; Center for Advanced Studies for Agriculture 
+and Food (CASAF), Kasetsart University Institute for Advanced Studies (NRU-KU), 
+Kasetsart University, Chatuchak, Bangkok 10900, Thailand. Electronic address: 
+fagisnn@ku.ac.th.
+
+The gene coding for antimicrobial peptides produced by probiotic Lactobacillus 
+reuteri KUB-AC5 located on the cloned DNA fragment I-C46 containing 2 open 
+reading frames I-C46-F2.1 and I-C46-F2.2 were designed for strain-specific 
+primers P1 and P2, respectively, and assessed by real-time quantitative 
+polymerase chain reaction. According to the obtained results, primer P1 has 
+limited strain specificity. Primer P2 exhibited high efficacy and specificity at 
+annealing temperature of 70°C while P1 annealed at 57°C causing nonspecific 
+bands. Hence, P2 was selected for quantitative polymerase chain reaction assay 
+by isothermal annealing and extension reaction at high temperature of 70°C 
+resulting in linearity for its DNA sequences ranging from 102 to 107 target copy 
+numbers per assay, and displaying a detection limit of 6.17 log cfu/g of cecal 
+digesta. Using spike testing, this system was able to detect 7.88 ± 0.06 to 
+11.78 ± 0.06 log copy number/g of digesta, higher than cultivation assay at 
+about 1 log cfu/g, with good correlation of 0.99. These results suggested 
+possible detection of strain KUB-AC5 in the gastrointestinal tract of chicken to 
+evaluate the efficacy and persistence of a probiotic strain which requires 
+correct inclusion rates in the feed.
+
+Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.3382/ps/pez549
+PMCID: PMC7587613
+PMID: 32416839 [Indexed for MEDLINE]
+
+
+13. PLoS One. 2016 Dec 1;11(12):e0167339. doi: 10.1371/journal.pone.0167339. 
+eCollection 2016.
+
+Dietary Probiotic Bacillus subtilis Strain fmbj Increases Antioxidant Capacity 
+and Oxidative Stability of Chicken Breast Meat during Storage.
+
+Bai WK(1), Zhang FJ(1), He TJ(1), Su PW(1), Ying XZ(1), Zhang LL(1), Wang T(1).
+
+Author information:
+(1)College of Animal Science and Technology, Nanjing Agricultural University, 
+Xuanwu District, Nanjing, People's Republic of China.
+
+This study was aimed to measure the dietary effects of probiotic Bacillus 
+subtilis strain fmbj (BS fmbj) on antioxidant capacity and oxidative stability 
+of chicken breast meat during storage. Treatment groups were fed the basal diet 
+with BS fmbj at 0 g/kg (CON), 0.2 g/kg (BS-1), 0.3 g/kg (BS-2), or 0.4 g/kg 
+(BS-3) doses without antibiotics. During 8 days of storage at 4°C, BS-2 group 
+showed a significant improvement (P < 0.05) on meat quality (pH, Drip loss, 
+Cooking loss, Shear force, color L*, a*, b*), free radical scavenging activity 
+(DPPH, ABTS+, H2O2), tissues antioxidant enzyme capacity (SOD, CAT, GSH-Px, GSH, 
+T-SH), mitochondria antioxidant enzyme capacity (MnSOD, GPx, GSH), mRNA 
+expression of antioxidant genes (Nrf2, HO-1, SOD, CAT, GSH-Px) and mitochondrial 
+function genes (avUCP, NRF1, NRF2, TFAM, PGC-1α), oxidative damage index (MDA, 
+ROS, PC, 8-OHdG), and MMP level in chicken breast meat as compared to the CON 
+group. These results indicate that dietary BS fmbj in broiler diets can protect 
+breast meat against the storage-induced oxidative stress by improving their free 
+radical scavenging capacity and antioxidant activity during 8 days of storage at 
+4°C.
+
+DOI: 10.1371/journal.pone.0167339
+PMCID: PMC5132206
+PMID: 27907152 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+14. Poult Sci. 2004 Jan;83(1):45-8. doi: 10.1093/ps/83.1.45.
+
+Characterization and electrotransformation of Lactobacillus crispatus isolated 
+from chicken crop and intestine.
+
+Beasley SS(1), Takala TM, Reunanen J, Apajalahti J, Saris PE.
+
+Author information:
+(1)Division of Microbiology, Department of Applied Chemistry and Microbiology, 
+University of Helsinki, 00014-FIN, Finland.
+
+Lactic acid bacteria originating in the intestine have recently undergone 
+intensive study for their potential probiotic properties. Here partial 16S rRNA 
+gene sequencing of 8 Lactobacillus strains proved them to be Lactobacillus 
+crispatus. Fatty acid analysis confirmed strains being closely related. These 
+strains and type strain ATCC33820 were characterized for genetic engineering 
+potential, thus determining aerobic growth, erythromycin sensitivity, and 
+glycine tolerance. Out of 5 plasmids, a 2.9-kb plasmid (pLEB579) was 
+successfully introduced into 4 chicken-originated wild-type L. crispatus 
+strains. Transformation frequency was approximately 30 transformants per 
+microgram of DNA, the first reported electrotransformation into 
+chicken-originated L. crispatus. In spite of its low frequency, transformation 
+enables bioengineering of these strains to improve the probiotic function in 
+feed adsorption, chicken health, and food safety.
+
+DOI: 10.1093/ps/83.1.45
+PMID: 14761083 [Indexed for MEDLINE]
+
+
+15. Lett Appl Microbiol. 2015 Jun;60(6):580-8. doi: 10.1111/lam.12411. Epub 2015 Mar 
+29.
+
+Isolation and characterization of Bacillus subtilis CH16 strain from chicken 
+gastrointestinal tracts for use as a feed supplement to promote weight gain in 
+broilers.
+
+Nguyen AT(1), Nguyen DV(1), Tran MT(1)(2), Nguyen LT(3), Nguyen AH(2), Phan 
+TN(1).
+
+Author information:
+(1)Key Laboratory of Enzyme and Protein Technology, VNU University of Science, 
+Hanoi, Vietnam.
+(2)ANABIO Research & Development JSC, Ha Dong, Hanoi, Vietnam.
+(3)DABACO Center for Veterinary Diagnostics, Khac Niem Industrial Zone, Bac 
+Ninh, Vietnam.
+
+Spore-forming bacterial strains were isolated from chicken gastrointestinal 
+tracts to develop a heat-stable feed supplement that promotes weight gain in 
+broilers. Seven Bacillus strains having more than 90% sporulation were screened 
+from the isolates and identified to be closely related with Bacillus subtilis 
+and Bacillus licheniformis. Of the seven strains, B. subtilis CH16 was selected 
+to develop a feed supplement for broilers, because it formed 100% heat-stable 
+spores, grew rapidly at 42°C and quickly formed a biofilm. In large-scale trials 
+in broilers (n ≥ 1150 per group), the group fed CH16 (3 × 10(6) CFU g(-1) 
+pellet) showed higher average daily gain (ADG = 61·16) and lower food conversion 
+ratio (FCR = 1·696) than did the group fed B. licheniformis CH22 (ADG = 57·10 
+and FCR = 1·792), the group fed B. subtilis HU58 (ADG = 51·90 and FCR = 1·868), 
+BioPlus group (ADG = 59·32 and FCR = 1·807) and the control group (ADG = 56·02 
+and FCR = 1·880). In conclusion, CH16 spores significantly increased ADG by 
+9·17% and reduced FCR by 9·79% in broilers. The result supports the use of B. 
+subtilis CH16 of chicken intestinal origin as a feed supplement that promote 
+weight gain in broilers. Significance and impact of the study: This study 
+reports screening of Bacillus strains isolated from chicken gastrointestinal 
+tracts for development of a feed supplement that promote weight gain in 
+broilers. Of the seven Bacillus isolates with high sporulation efficiency 
+(≥90%), Bacillus subtilis CH16 strain showed the best growth and biofilm 
+formation at body temperature of broilers (42°C). In large-scale trials in 
+broilers (n ≥ 1150 per group), CH16 spores induced a 9·17% increase in daily 
+weight gain (ADG) and a 9·79% reduction in FCR while the commercial BioPlus(®) 
+YC induced only a 5·89% increase in ADG and a 3·88% reduction in FCR.
+
+© 2015 The Society for Applied Microbiology.
+
+DOI: 10.1111/lam.12411
+PMID: 25754534 [Indexed for MEDLINE]
+
+
+16. Lett Appl Microbiol. 2005;40(5):391-6. doi: 10.1111/j.1472-765X.2005.01684.x.
+
+Adherence and colonization properties of Lactobacillus rhamnosus TB1, a broiler 
+chicken isolate.
+
+Bouzaine T(1), Dauphin RD, Thonart P, Urdaci MC, Hamdi M.
+
+Author information:
+(1)UR-Microbial and Food Process, National Institute of Applied Science and 
+Technology, University of Carthage, Tunis, Tunisia.
+
+AIMS: Selected lactic acid bacteria (LAB) isolated from intestinal tract of 
+chicken have been studied in order to investigate their ability to adhere in 
+vitro to Basement Membrane Matrigel (BMM). A selected strain showing a good 
+adherence in BMM test was used for in vivo colonization assays.
+METHODS AND RESULTS: In vitro assessment of adhesion of broiler chicken isolates 
+was performed using BMM assay. Among LAB strains tested, Lactobacillus rhamnosus 
+TB1 showed a good adherence that was comparable to the one of an Escherichia 
+coli EPEC strain used as positive control. For in vivo colonization assays this 
+strain was fluorescently stained with the carboxyfluorescein diacetate 
+succinimidyl ester (cFDA-SE) thus allowing its detection in different layers of 
+intestinal tract after inoculation in broiler chicken. Further, stained L. 
+rhamnosus were found with a highest value in rectum, jejunum and ileum both 3 
+and 24 h after administration.
+CONCLUSIONS: BMM assay is a quick method to test in vitro adhesion properties of 
+bacterial strains and cFDA-SE-stained bacteria may be considered as an 
+alternative method to test in vivo adhesion and colonization properties.
+SIGNIFICANCE AND IMPACT OF THE STUDY: Lactobacillus rhamnosus TB1 was therefore 
+showed to be able to adhere strongly in vitro to BMM and in vivo to intestinal 
+epithelial cells of chicken and may be considered as a potential probiotic for 
+chicken.
+
+DOI: 10.1111/j.1472-765X.2005.01684.x
+PMID: 15836745 [Indexed for MEDLINE]
+
+
+17. J Bacteriol. 2012 Jun;194(11):3008-9. doi: 10.1128/JB.00344-12.
+
+Genome sequence of Lactobacillus salivarius SMXD51, a potential probiotic strain 
+isolated from chicken cecum, showing anti-campylobacter activity.
+
+Kergourlay G(1), Messaoudi S, Dousset X, Prévost H.
+
+Author information:
+(1)LUNAM Université, Oniris, UMR1014 Secalim, Nantes, France.
+
+We report the draft genome sequence of Lactobacillus salivarius SMXD51, isolated 
+from the cecum of healthy chickens showing an activity against 
+Campylobacter--the food-borne pathogen that is the most common cause of 
+gastroenteritis in the European Union (EU)--and potentially interesting features 
+for a probiotic strain, explaining our interest in it.
+
+DOI: 10.1128/JB.00344-12
+PMCID: PMC3370615
+PMID: 22582370 [Indexed for MEDLINE]
+
+
+18. Can J Microbiol. 1999 Dec;45(12):981-7. doi: 10.1139/w99-102.
+
+Some probiotic properties of chicken lactobacilli.
+
+Gusils C(1), González SN, Oliver G.
+
+Author information:
+(1)Centro de Referencia para Lactobacilos, Tucumán, Argentina.
+
+The beneficial effect of lactobacilli has been attributed to their ability to 
+colonize human and animal gastrointestinal tracts. In this work, adhesion assays 
+with three lactobacillus strains and intestinal fragments obtained from chickens 
+were assessed. Lactobacillus animalis and L. fermentum were able to adhere to 
+three kinds of epithelial cells (crop, small and large intestines) with 
+predominance to small intestine. Among the strains considered, L. fermentum 
+subsp. cellobiosus showed the lowest and L. animalis the highest adhesion 
+ability. Scanning electron microphotographs showing L. animalis and L. fermentum 
+adhering to intestinal cells were obtained. The characterization of L. animalis 
+adhesion indicated that lectin-like structure of this strain has glucose/mannose 
+as specific sugars of binding. However, a calcium requirement was not observed. 
+The adhesion of L. fermentum was reduced by addition of sialic acid or mannose 
+(P < 0.01). These carbohydrates can be involved in the interaction between 
+adhesin and epithelial surface. In this case, the dependence on bivalent cations 
+was demonstrated. Lactobacillus fermentum was effective in reducing the 
+attachment of Salmonella pullorum by 77%, while L. animalis was able to inhibit 
+(90%, 88%, and 78%) the adhesion of S. pullorum, S. enteritidis, and S. 
+gallinarum to host-specific epithelial fragments respectively. Our results from 
+this in vitro model suggest that these lactobacilli are able to block the 
+binding sites for Salmonella adhesion.
+
+DOI: 10.1139/w99-102
+PMID: 10696476 [Indexed for MEDLINE]
+
+
+19. Sci Rep. 2020 Oct 1;10(1):16259. doi: 10.1038/s41598-020-73316-5.
+
+Competitive reduction of poultry-borne enteric bacterial pathogens in chicken 
+gut with bioactive Lactobacillus casei.
+
+Tabashsum Z(1), Peng M(2), Alvarado-Martinez Z(1), Aditya A(2), Bhatti J(1), 
+Romo PB(2), Young A(2), Biswas D(3)(4)(5).
+
+Author information:
+(1)Biological Sciences Program - Molecular and Cellular Biology, University of 
+Maryland, College Park, MD, 20742, USA.
+(2)Department of Animal and Avian Sciences, University of Maryland, College 
+Park, MD, 20742, USA.
+(3)Biological Sciences Program - Molecular and Cellular Biology, University of 
+Maryland, College Park, MD, 20742, USA. dbiswas@umd.edu.
+(4)Department of Animal and Avian Sciences, University of Maryland, College 
+Park, MD, 20742, USA. dbiswas@umd.edu.
+(5)Center for Food Safety and Security Systems, University of Maryland, College 
+Park, MD, 20742, USA. dbiswas@umd.edu.
+
+In this study, the effect of sustainable probiotics on Campylobacter jejuni 
+colonization and gut microbiome composition was evaluated using chicken as a 
+model organism. Chickens were given Lactobacillus casei over-expressing 
+myosin-cross-reactive antigen (LC+mcra). LC+mcra can generate bioactive 
+compounds in larger quantity including conjugated linoleic acid. A total of 120 
+chickens were used in duplicate trials to investigate the effectiveness of 
+LC+mcra in decreasing C. jejuni colonization by means of kanamycin resistant 
+strain compared to the control group. We observed that LC+mcra can efficiently 
+colonize various parts of the chicken gut and competitively reduce colonization 
+of natural and challenged C. jejuni and natural Salmonella enterica. LC+mcra was 
+found to reduce C. jejuni colonization in cecum, ileum and jejunum, by more than 
+one log CFU/g when compared to the no-probiotic control group. Furthermore, 16S 
+rRNA compositional analysis revealed lower abundance of Proteobacteria, higher 
+abundance of Firmicutes, along with enriched bacterial genus diversity in gut of 
+LC+mcra fed chicken. Decreased contamination of drinking water by C. jejuni and 
+S. enterica was also observed, suggesting a potential function of reducing 
+horizontal transfer of enteric bacteria in poultry. Outcomes of this study 
+reveal high potential of LC+mcra as sustainable approach to decrease 
+colonization of C. jejuni and S. enterica in poultry gut along with other 
+beneficial attributes.
+
+DOI: 10.1038/s41598-020-73316-5
+PMCID: PMC7530658
+PMID: 33004922 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+20. PLoS One. 2012;7(4):e35475. doi: 10.1371/journal.pone.0035475. Epub 2012 Apr 13.
+
+Effect of fructooligosaccharide metabolism on chicken colonization by an 
+extra-intestinal pathogenic Escherichia coli strain.
+
+Porcheron G(1), Chanteloup NK, Trotereau A, Brée A, Schouler C.
+
+Author information:
+(1)INRA, UMR1282 Infectiologie et Santé Publique, Nouzilly, France.
+
+Extra-intestinal pathogenic Escherichia coli (ExPEC) strains cause many diseases 
+in humans and animals. While remaining asymptomatic, they can colonize the 
+intestine for subsequent extra-intestinal infection and dissemination in the 
+environment. We have previously identified the fos locus, a gene cluster within 
+a pathogenicity island of the avian ExPEC strain BEN2908, involved in the 
+metabolism of short-chain fructooligosaccharides (scFOS). It is assumed that 
+these sugars are metabolized by the probiotic bacteria of the microbiota present 
+in the intestine, leading to a decrease in the pathogenic bacterial population. 
+However, we have previously shown that scFOS metabolism helps BEN2908 to 
+colonize the intestine, its reservoir. As the fos locus is located on a 
+pathogenicity island, one aim of this study was to investigate a possible role 
+of this locus in the virulence of the strain for chicken. We thus analysed fos 
+gene expression in extracts of target organs of avian colibacillosis and 
+performed a virulence assay in chickens. Moreover, in order to understand the 
+involvement of the fos locus in intestinal colonization, we monitored the 
+expression of fos genes and their implication in the growth ability of the 
+strain in intestinal extracts of chicken. We also performed intestinal 
+colonization assays in axenic and Specific Pathogen-Free (SPF) chickens. We 
+demonstrated that the fos locus is not involved in the virulence of BEN2908 for 
+chickens and is strongly involved in axenic chicken cecal colonization both in 
+vitro and in vivo. However, even if the presence of a microbiota does not 
+inhibit the growth advantage of BEN2908 in ceca in vitro, overall, growth of the 
+strain is not favoured in the ceca of SPF chickens. These findings indicate that 
+scFOS metabolism by an ExPEC strain can contribute to its fitness in ceca but 
+this benefit is fully dependent on the bacteria present in the microbiota.
+
+DOI: 10.1371/journal.pone.0035475
+PMCID: PMC3325963
+PMID: 22514747 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+21. Genome Announc. 2016 Nov 3;4(6):e01229-16. doi: 10.1128/genomeA.01229-16.
+
+Draft Genome Sequences of Lactobacillus animalis Strain P38 and Lactobacillus 
+reuteri Strain P43 Isolated from Chicken Cecum.
+
+Rezvani M(1), Mendoza M(1), Koci MD(1), Daron C(2), Levy J(3), Hassan HM(4)(2).
+
+Author information:
+(1)Prestage Department of Poultry Science, North Carolina State University, 
+Raleigh, North Carolina.
+(2)Microbiology Graduate Program, North Carolina State University, Raleigh, 
+North Carolina.
+(3)RTI International, Durham, North Carolina.
+(4)Prestage Department of Poultry Science, North Carolina State University, 
+Raleigh, North Carolina hmhassan@ncsu.edu.
+
+Here, we present the genome sequence of Lactobacillus animalis strain P38 and 
+Lactobacillus reuteri strain P43, both isolated from the cecum content of a 
+4-week old chicken fed a diet supplemented with the prebiotic 
+β(1-4)galacto-oligosaccharide (GOS). These indigenous Lactobacillus isolates are 
+potential probiotic organisms for poultry.
+
+Copyright © 2016 Rezvani et al.
+
+DOI: 10.1128/genomeA.01229-16
+PMCID: PMC5095478
+PMID: 27811108
+
+
+22. Poult Sci. 2022 Nov;101(11):102136. doi: 10.1016/j.psj.2022.102136. Epub 2022 
+Aug 15.
+
+Characterizing the chicken gut colonization ability of a diverse group of 
+bacteria.
+
+Poudel B(1), Shterzer N(1), Sbehat Y(1), Ben-Porat N(1), Rakover M(1), 
+Tovy-Sharon R(1), Wolicki D(1), Rahamim S(1), Bar-Shira E(1), Mills E(2).
+
+Author information:
+(1)Department of Animal Science, Robert H. Smith Faculty of Agriculture, Food, 
+and Environment, The Hebrew University of Jerusalem, Rehovot 7610001, Israel.
+(2)Department of Animal Science, Robert H. Smith Faculty of Agriculture, Food, 
+and Environment, The Hebrew University of Jerusalem, Rehovot 7610001, Israel. 
+Electronic address: erez.mills@mail.huji.ac.il.
+
+The development of probiotics for chickens is a rapidly expanding field. The 
+main approach to probiotics is to administer the probiotic strain throughout the 
+bird's life, usually through incorporation in the feed. However, probiotics 
+which would utilize bacterial strains capable of permanently colonizing the gut 
+after a single exposure are likely to have a greater impact on the developing 
+gut community as well as on the host, would simplify probiotic use and also 
+reduce costs in an industrial setting. Finally, very limited and conflicting 
+information about the colonization ability of different bacterial strains has 
+been reported. Here we report 2 colonization experiments using 14 different 
+bacterial strains from diverse phylogenetic groups. In both experiments, groups 
+of chicks were orally inoculated on the day of hatch with different bacterial 
+strains that had been previously isolated from adult heavy breeders. In the 
+first experiment, colonization of the bacterial strains in broiler chicks was 
+determined 7 d after treatment. In the second experiment, colonization was 
+followed in layer chicks until d 17. Ten of the bacterial strains, including 
+Lactobacillales and Bacteroidales strains, were able to colonize chicks after a 
+single exposure for the duration of the experiment. For a few of these strains, 
+exposure had little effect compared to non-treated chicks due to natural 
+background colonization. Only 4 strains failed to colonize the chicks. Moreover, 
+it is shown that fecal samples are useful to identify and provide a dynamic view 
+of colonization. We further analyzed the effects of artificial colonization on 
+microbiota composition. Some of the strains used in this research were found to 
+reduce Enterobacteriaceae family abundance, implying that they might be useful 
+in reducing relevant pathogen levels. To conclude, our results show that the 
+development of single exposure based probiotics is possible.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.psj.2022.102136
+PMCID: PMC9508342
+PMID: 36152437 [Indexed for MEDLINE]
+
+
+23. Benef Microbes. 2020 Mar 27;11(2):163-173. doi: 10.3920/BM2019.0116. Epub 2020 
+Mar 5.
+
+Lactobacillus plantarum S27 from chicken faeces as a potential probiotic to 
+replace antibiotics: in vivo evidence.
+
+Benbara T(1), Lalouche S(1), Drider D(2), Bendali F(1).
+
+Author information:
+(1)Laboratoire de Microbiologie Appliquée, Faculté des Sciences de la Nature et 
+de la Vie, Université de Bejaia, Bejaia 06000, Algeria.
+(2)EA 7394 Institut Charles Viollette, Université Lille, 59000 Lille, France.
+
+This study reports the probiotic attributes of Lactobacillus strains isolated 
+from chicken faeces and mainly their capabilities to prevent infectious diseases 
+and improve chicken production performance. Thus, 22 Lactobacillus strains were 
+isolated from 50 chickens' faeces samples and assessed for their resistance to 
+gastric acidity (pH 0.5, 1, 1.5, 2 and 2.5), tolerance to bile salts, adherence 
+to broiler intestinal cells and antibacterial activity. These in vitro screening 
+analyses revealed Lactobacillus plantarum S22 and L. plantarum S27 as the only 
+strains capable to survive at pH 2.0 in MRS broth (log10 cfu/ml=5.02 and 8.46 
+log respectively), while the remaining strains were not resistant to pH≤2.0. 
+Similarly, 21 strains were resistant to bile at 0.5% (log10 cfu/ml=0.09-3.32 
+log), but only Lactobacillus fermentum S26, L. plantarum S22 and L. plantarum 
+S27 were able to grow in the presence of 0.1% (w/v) bile (8.23±0.15; 8.39±0.17 
+and 8.57±0.07 respectively). Most of these isolates (19/22) were active against 
+Escherichia coli ATCC 25922, E. coli SL2016 and Salmonella enterica CIP 81-3. 
+Lactic acid is likely the main antibacterial compound produced since the 
+neutralised supernatant was devoid of any antibacterial activity. In vitro 
+characterisation of these 22 novel strains, based on the aforementioned criteria 
+revealed L. plantarum S27 as the most suitable strain for in vivo analyses. To 
+this end, this strain was assessed for its sensitivity to different antibiotics 
+and adhesion to poultry intestinal cells to ascertain it probiotic attributes. 
+The administration of L. plantarum S27 to the chicks at 109 cfu/ml permitted to 
+improve the animal food intake and weight. Taken together, data from in vitro 
+and in vivo analyses indicated that L. plantarum S27 might be a worthy probiotic 
+for chickens rather than adding antibiotics to animals feeding.
+
+DOI: 10.3920/BM2019.0116
+PMID: 32131607 [Indexed for MEDLINE]
+
+
+24. Benef Microbes. 2012 Jun 1;3(2):137-44. doi: 10.3920/BM2011.0058.
+
+Transfer of antibiotic resistance determinants between lactobacilli isolates 
+from the gastrointestinal tract of chicken.
+
+Vieira de Souza F(1), Roque R, Silva Moreira JL, Resende de Souza M, Nicoli JR, 
+Neumann E, Cantini Nunes Á.
+
+Author information:
+(1)Departamento de Biologia Geral, Universidade Federal de Minas Gerais, Campus 
+Pampulha, Av. Antônio Carlos, 6627, 31270-901 Belo Horizonte, MG, Brazil.
+
+The aim of this study was to assess the potential horizontal transfer of genetic 
+traits for antibiotic resistance between lactobacilli isolated from the chicken 
+gut, both in vitro and in vivo. Thirty-seven Lactobacillus spp. strains isolated 
+from the gizzard, small and large intestines and caeca of free-range broiler 
+chickens showed multi-drug resistance as assessed by disc diffusion assays. The 
+minimum inhibitory concentration (MIC) for vancomycin, tetracycline, 
+erythromycin and chloramphenicol was determined in De Man, Rogosa and Sharpe 
+broth in a microplate assay. Almost all the lactobacilli isolates were resistant 
+to vancomycin (except strains belonging to the Lactobacillus acidophilus group) 
+and to tetracycline (MIC≥128 μg/ml). Only five strains were resistant to 
+erythromycin, and six to chloramphenicol. The transfer rate in filter mating 
+experiments performed using L. acidophilus strain 4M14E (EmR), Lactobacillus 
+vaginalis strain 5M14E (CmR), Lactobacillus salivarius strain 5C14C (EmR), and 
+the 4G14L and 3C14C strains of Lactobacillus reuteri (CmR) showed a frequency of 
+approximately 1×104 cfu/ml of double-resistant transconjugants for the different 
+combinations. The exception was the L. salivarius 5C14C (EmR) and L. vaginalis 
+5M14E (CmR) mating combination, which produced no transconjugants. In vivo 
+experiments performed in gnotobiotic mice by mating L. acidophilus 4M14E (EmR) 
+with L. reuteri 3C14C (CmR), L. reuteri 4G14L (CmR) or L. vaginalis 5M14E (CmR) 
+resulted in transconjugants at 3.95±0.29, 3.16±0.33, and 4.55±1.52 log10 cfu/g 
+of faeces, respectively. Taken together, these data suggest that genetic 
+exchange may occur between native bacterial strains within the gastrointestinal 
+tract of chickens, which might maintain a dynamic gene pool conferring 
+antibiotic resistance upon indigenous microbiota components, even in the absence 
+of the pathogens. This possibility must be taken into account as a complementary 
+criterion when lactobacilli are screened for probiotic use.
+
+DOI: 10.3920/BM2011.0058
+PMID: 22476322 [Indexed for MEDLINE]
+
+
+25. BMC Biotechnol. 2006 Jan 5;6:2. doi: 10.1186/1472-6750-6-2.
+
+Genetic transformation of novel isolates of chicken Lactobacillus bearing 
+probiotic features for expression of heterologous proteins: a tool to develop 
+live oral vaccines.
+
+Mota RM(1), Moreira JL, Souza MR, Horta MF, Teixeira SM, Neumann E, Nicoli JR, 
+Nunes AC.
+
+Author information:
+(1)Departamento de Biologia Geral, Instituto de Ciências Biológicas, 
+Universidade Federal de Minas Gerais, Belo Horizonte, MG, Brazil. 
+rodrigo_m_mota@yahoo.com.br
+
+BACKGROUND: The use of lactic acid bacteria as vehicles to delivery antigens to 
+immunize animals is a promising issue. When genetically modified, these bacteria 
+can induce a specific local and systemic immune response against selected 
+pathogens. Gastric acid and bile salts tolerance, production of antagonistic 
+substances against pathogenic microorganisms, and adhesive ability to gut 
+epithelium are other important characteristics that make these bacteria useful 
+for oral immunization.
+RESULTS: Bacteria isolated on de Man, Rogosa and Sharpe medium (MRS) from 
+different gastrointestinal portions of broiler chicks were evaluated for their 
+resistance to artificial gastric acid and bile salts, production of hydrogen 
+peroxide, and cell surface hydrophobicity. Thirty-eight isolates were first 
+typed at species level by PCR amplification of 16S-23S rRNA intergenic spacers 
+using universal primers that anneal within 16S and 23S genes, followed by 
+restriction digestion analyses of PCR amplicons (PCR-ARDRA). An expression 
+cassette was assembled onto the pCR2.1-Topo vector by cloning the promoter, 
+leader peptide, cell wall anchor and terminator sequences derived from the 
+laminin binding S-layer protein gene of L. crispatus strain F5.7 (lbs gene). A 
+sequence encoding the green fluorescent protein (GFP) was inserted as reporter 
+gene, and an erythromycin resistance gene was added as selective marker. All 
+constructs were able to express GFP in the cloning host E. coli XL1-Blue and 
+different Lactobacillus strains as verified by FACS and laser scanning confocal 
+microscopy.
+CONCLUSION: Lactobacillus isolated from gastrointestinal tract of broiler 
+chickens and selected for probiotic characteristics can be genetically modified 
+by introducing an expression cassette into the lbs locus. The transformed 
+bacteria expressed on its cell wall surface different fluorescent proteins used 
+as reporters of promoter function. It is possible then that similar bacterial 
+model expressing pathogen antigens can be used as live oral vaccines to immunize 
+broilers against infectious diseases.
+
+DOI: 10.1186/1472-6750-6-2
+PMCID: PMC1360068
+PMID: 16396687 [Indexed for MEDLINE]
+
+
+26. J Microbiol Biotechnol. 2008 Feb;18(2):338-42.
+
+Screening of Lactobacilli derived from chicken feces and partial 
+characterization of Lactobacillus acidophilus A12 as an animal probiotics.
+
+Lee NK(1), Yun CW, Kim SW, Chang HI, Kang CW, Paik HD.
+
+Author information:
+(1)Division of Animal Life Science, Konkuk University, Seoul 143-701, Korea.
+
+This study was performed to screen and select Lactobacillus strains from chicken 
+feces for probiotic use in animals. Of these strains, strain A12 had the highest 
+immunostimulatory effect. Therefore, strain A12 was characterized as a potential 
+probiotic. Strain A12 was tentatively identified as Lactobacillus acidophilus 
+A12, using the API 50 CHL kit based on a 99.9% homology. L. acidophilus A12 was 
+highly resistant to artificial gastric juice (pH 2.5) and bile acid (oxgall). 
+Based on results from the API ZYM kit, leucine arylamidase, crystine 
+arylamidase, acid phosphatase, naphthol-AS-BI-phosphohydrolase, 
+alpha-galactosidase, beta- galactosidase, alpha-glucosidase, beta-glucosidase, 
+and N-acetyl-beta- glucosamidase were produced by strain A12. L. acidophilus A12 
+showed resistance to several antibiotics (nisin, gentamycin, and erythromycin). 
+The amount of interleukin (IL)-1alpha in 20x concentrated supernatant from L. 
+acidophilus A12 was approximately 156 pg/ml. With regard to antioxidant 
+activity, L. acidophilus A12 supernatant showed 60.6% DPPH radical scavenging 
+activity. These results demonstrate the potential use of L. acidophilus A12 as a 
+health-promoting probiotics.
+
+PMID: 18309281 [Indexed for MEDLINE]
+
+
+27. BMC Vet Res. 2020 Feb 3;16(1):34. doi: 10.1186/s12917-020-2238-5.
+
+Effect of Lactobacillus spp. on adhesion, invasion, and translocation of 
+Campylobacter jejuni in chicken and pig small-intestinal epithelial cell lines.
+
+Šikić Pogačar M(1), Langerholc T(2), Mičetić-Turk D(3), Možina SS(4), Klančnik 
+A(4).
+
+Author information:
+(1)Faculty of Medicine, University of Maribor, 2000, Maribor, Slovenia. 
+maja_sikic@yahoo.com.au.
+(2)Department of Microbiology, Biochemistry, Molecular Biology and 
+Biotechnology, Faculty of Agriculture and Life Science, University of Maribor, 
+2311, Hoče, Slovenia.
+(3)Faculty of Medicine, University of Maribor, 2000, Maribor, Slovenia.
+(4)Department of Food Science and Technology, Biotechnical Faculty, University 
+of Ljubljana, 1000, Ljubljana, Slovenia.
+
+BACKGROUND: Campylobacter spp. are a major cause of bacterial food-borne 
+diarrhoeal disease. This mainly arises through contamination of meat products 
+during processing. For infection, Campylobacter spp. must adhere to epithelial 
+cells of the mucus layer, survive conditions of the gastrointestinal tract, and 
+colonise the intestine of the host. Addition of probiotic bacteria might promote 
+competitive adhesion to epithelial cells, consequently reducing Campylobacter 
+jejuni colonisation. Effect of Lactobacillus spp. (PCS20, PCS22, PCS25, LGG, 
+PCK9) on C. jejuni adhesion, invasion and translocation in pig (PSI cl.1) and 
+chicken (B1OXI) small-intestine cell lines, as well as pig enterocytes (CLAB) 
+was investigated.
+RESULTS: Overall, in competitive adhesion assays with PSI cl.1 and CLAB cell 
+monolayers, the addition of Lactobacillus spp. reduced C. jejuni adherence to 
+the cell surface, and negatively affected the C. jejuni invasion. Interestingly, 
+Lactobacillus spp. significantly impaired C. jejuni adhesion in 
+three-dimensional functional PSI cl.1 and B1OXI cell models. Also, C. jejuni did 
+not translocate across PSI cl.1 and B1OXI cell monolayers when co-incubated with 
+probiotics. Among selected probiotics, Lactobacillus rhamnosus LGG was the 
+strain that reduced adhesion efficacy of C. jejuni most significantly under 
+co-culture conditions.
+CONCLUSION: The addition of Lactobacillus spp. to feed additives in livestock 
+nutrition might be an effective novel strategy that targets Campylobacter 
+adhesion to epithelial cells, and thus prevents colonisation, reduces the 
+transmission, and finally lowers the incidence of human campylobacteriosis.
+
+DOI: 10.1186/s12917-020-2238-5
+PMCID: PMC6998324
+PMID: 32013961 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+28. Microorganisms. 2019 Dec 11;7(12):684. doi: 10.3390/microorganisms7120684.
+
+Synergistic Effects of Probiotics and Phytobiotics on the Intestinal Microbiota 
+in Young Broiler Chicken.
+
+Ren H(1), Vahjen W(1), Dadi T(1), Saliu EM(1), Boroojeni FG(1), Zentek J(1).
+
+Author information:
+(1)Institute of Animal Nutrition, Freie Universität Berlin, Königin-Luise-Str. 
+49, 14195 Berlin, Germany.
+
+Probiotics and phytobiotics have been studied as in-feed antibiotic alternatives 
+for decades, yet there are no studies on their possible symbiotic effects. In 
+the present study, newly hatched chickens were fed with feeds supplemented 
+either with host-specific Lactobacillus strains (L. agilis and L. salivarius), 
+commercial phytobiotics, or combinations of both. After 13 days of life, crops 
+and caecums were analyzed for bacterial composition (16S rDNA sequencing, qPCR) 
+and activity (bacterial metabolites). Crop and caecum samples were also used to 
+study the ex vivo survival of a broiler-derived extended-spectrum beta-lactamase 
+(ESBL) producing Escherichia coli strain. In the crop, combinations of 
+probiotics and phytobiotics, but not their single application, increased the 
+dominance of lactobacilli. The single application of phytobiotics reduced the 
+metabolite concentrations in the crop, but certain combinations synergistically 
+upregulated the metabolites. Changes in the qualitative and quantitative 
+composition of the caecal microbiota were less pronounced than in the crop. 
+Acetate concentrations were significantly lower for phytobiotics or the L. 
+agilis probiotic strain compared to the control group, but the L. salivarius 
+probiotic showed significantly higher acetate concentrations alone or in 
+combination with one phytobiotic. The synergistic effects on the reduction of 
+the ex vivo survival of an ESBL producing E. coli strain in crop or caecum 
+contents were also observed for most combinations. This study shows the 
+beneficial synergistic effects of probiotics and phytobiotics on the intestinal 
+bacterial composition and their metabolic activity in young broilers. The 
+reduced survival of potentially problematic bacteria, such as ESBL-producing E. 
+coli further indicates that combinations of probiotics and phytobiotics may lead 
+to a more enhanced functionality than their individual supplementation.
+
+DOI: 10.3390/microorganisms7120684
+PMCID: PMC6956037
+PMID: 31835884
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+29. Microbiol Resour Announc. 2018 Oct 11;7(14):e00987-18. doi: 
+10.1128/MRA.00987-18. eCollection 2018 Oct.
+
+Whole-Genome Sequence of Lactobacillus salivarius DJ-sa-01, Isolated from 
+Chicken Small Intestine.
+
+Kim D(1), Cho MJ(1), Cho S(1), Lee Y(1), Byun SJ(2), Lee S(1).
+
+Author information:
+(1)Department of Genetic Engineering, Sungkyunkwan University, Jangan-gu, Suwon, 
+Republic of Korea.
+(2)Animal Biotechnology Division, National Institute of Animal Science, Rural 
+Development Administration, Wanju-gun, Jeollabuk-do, Republic of Korea.
+
+We have identified the whole-genome sequence of Lactobacillus salivarius 
+DJ-sa-01, a potential probiotic strain for poultry, isolated from a chicken 
+small intestine. We used the PacBio and Illumina platforms to obtain the 
+sequence of the entire single circular chromosome.
+
+DOI: 10.1128/MRA.00987-18
+PMCID: PMC6256648
+PMID: 30533717
+
+
+30. Arch Microbiol. 2022 Nov 19;204(12):715. doi: 10.1007/s00203-022-03307-9.
+
+Chicken embryos are a valuable model for the selection of Bacillus subtilis for 
+probiotic purposes.
+
+Dos Reis TFM(#)(1), Hoepers PG(#)(2), Azevedo VAC(3), da Silva GR(1), Notário 
+FO(1), Soares MC(1), Schlemper AE(1), Costa ÍM(1), Coelho-Rocha ND(3), da Costa 
+MS(4), Sommerfeld S(1), Medeiros-Ronchi AA(1), Rossi DA(1), de Castro IP(1), 
+Fonseca BB(5)(6).
+
+Author information:
+(1)School of Veterinary Medicine, Federal University of Uberlândia, Uberlândia, 
+Brazil.
+(2)School of Veterinary Medicine, Federal University of Uberlândia, Uberlândia, 
+Brazil. patriciag.hoepers@gmail.com.
+(3)Graduate Program in Genetics at the Federal University of Minas Gerais, Belo 
+Horizonte, Brazil.
+(4)Graduate Program in Genetics and Biochemistry at the Federal University of 
+Uberlândia, Uberlândia, Brazil.
+(5)School of Veterinary Medicine, Federal University of Uberlândia, Uberlândia, 
+Brazil. biafonseca@ufu.br.
+(6)Graduate Program in Genetics and Biochemistry at the Federal University of 
+Uberlândia, Uberlândia, Brazil. biafonseca@ufu.br.
+(#)Contributed equally
+
+Bacillus subtilis (BS) has been used as an excellent probiotic; however, some BS 
+strains seem to be opportunist pathogens or do not present inhibitory effects in 
+the pathogenic bacteria, so the characterization of BS strains for use in 
+animals is mandatory. This study aimed to select nonpathogenic strains of BS, 
+which can inhibit Salmonella spp., avian pathogenic Escherichia coli (APEC), and 
+Campylobacter jejuni (CJ) using a chicken embryo as a model. We tested nine (9) 
+strains of BS isolated from several sources (named A to I) in in vitro by tests 
+of mucin degradation activity, haemolytic activity, apoptosis, and necrosis in 
+fibroblasts from chickens. After the in vitro test, we tested the remaining 
+seven (7) strains (strains A to G) in a chicken embryo (CE) as an in vivo model 
+and target animal. We inoculated 3 log CFU/CE of each strain via allantoic fluid 
+at the 10th day postincubation (DPI). Each treatment group consisted of eight 
+CEs. At the 17th DPI we checked CE mortality, gross lesions, CE weight, and 
+whether BS strains were still viable. To perform the cytokine, total protein, 
+albumin, and reactive C protein analysis, we collected the CE blood from the 
+allantoic vessel and intestine fragments in the duodenum portion for 
+histomorphometric analysis. After the results in CEs, we tested the inhibition 
+capacity of the selected BS strains for diverse strains of Salmonella  
+Heidelberg (SH), S. Typhimurium (ST), S. Enteritidis (SE), S. Minnesota (SM), S. 
+Infantis (SI), Salmonella var. monophasic (SVM), APEC and C. jejuni. After the 
+in vitro trial (mucin degradation activity, haemolytic activity, apoptosis, and 
+necrosis), we removed two (2) strains (H and I) that showed β-haemolysis, mucin 
+degradation, and/or high apoptosis and necrosis effects. Although all strains of 
+BS were viable in CEs at the 17th DPI, we removed four (4) strains (A, B, D, F) 
+once they led to the highest mortality in CEs or a high albumin/protein ratio. 
+C. jejuni inoculated with strain G had greater weight than the commercial 
+strain, which could be further used for egg inoculation with benefits to the CE. 
+From the tests in CEs, we selected the strains C, E, and G for their ability to 
+inhibit pathogenic strains of relevant foodborne pathogens. We found that the 
+inhibition effect was strain dependent. In general, strains E and/or G presented 
+better or similar results than commercial control strains in the inhibition of 
+SH, ST, SI, APEC, and two (2) strains of CJ. In this study, we selected BS 
+strains C, E and G due to their in vitro and in vivo safety and beneficial 
+effects. In addition, we emphasize the value of CE as an in vivo experimental 
+model for assessing BS's safety and possible benefits for poultry and other 
+animals.
+
+© 2022. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1007/s00203-022-03307-9
+PMID: 36400871 [Indexed for MEDLINE]
+
+
+31. Zoonoses Public Health. 2013 Mar;60(2):141-8. doi: 
+10.1111/j.1863-2378.2012.01510.x. Epub 2012 Jun 6.
+
+Interaction of Campylobacter spp. and human probiotics in chicken intestinal 
+mucus.
+
+Ganan M(1), Martinez-Rodriguez AJ, Carrascosa AV, Vesterlund S, Salminen S, 
+Satokari R.
+
+Author information:
+(1)Departamento de Nutrición, Bromatología y Tecnología de los Alimentos, 
+Universidad Complutense de Madrid, Madrid, Spain. mganan@vet.ucm.es
+
+Campylobacter is the most common cause of bacterial food-borne diarrhoeal 
+disease throughout the world. The principal risk of human contamination is 
+handling and consumption of contaminated poultry meat. To colonize poultry, 
+Campylobacter adheres to and persists in the mucus layer that covers the 
+intestinal epithelium. Inhibiting adhesion to the mucus could prevent 
+colonization of the intestine. The aim of this study was to investigate in vitro 
+the protective effect of defined commercial human probiotic strains on the 
+adhesion of Campylobacter spp. to chicken intestinal mucus, in a search for 
+alternatives to antibiotics to control this food-borne pathogen. The probiotic 
+strains Lactobacillus rhamnosus GG and Propionibacterium freudenreichii ssp. 
+shermanii JS and a starter culture strain Lactococcus lactis ssp. lactis adhered 
+well to chicken intestinal mucus and were able to reduce the binding of 
+Campylobacter spp. when the mucus was colonized with the probiotic strain before 
+contacting the pathogen. Human-intended probiotics could be useful as 
+prophylactics in poultry feeding for controlling Campylobacter spp. 
+colonization.
+
+© 2012 Blackwell Verlag GmbH.
+
+DOI: 10.1111/j.1863-2378.2012.01510.x
+PMID: 22672405 [Indexed for MEDLINE]
+
+
+32. Microorganisms. 2022 Mar 28;10(4):726. doi: 10.3390/microorganisms10040726.
+
+Lactobacillus salivarius CML352 Isolated from Chinese Local Breed Chicken 
+Modulates the Gut Microbiota and Improves Intestinal Health and Egg Quality in 
+Late-Phase Laying Hens.
+
+Xu C(1), Wei F(1), Yang X(1), Feng Y(1), Liu D(1), Hu Y(1).
+
+Author information:
+(1)State Key Laboratory of Animal Nutrition, College of Animal Science and 
+Technology, China Agricultural University, Beijing 100193, China.
+
+Lactobacillus strains with fine probiotic properties are continuously needed in 
+the laying hen industry to improve the animals' gut health and production 
+performance. In this study, we isolated 57 Lactobacillus strains from the gut 
+microbiota of 17 different chicken breeds in China. We characterized the 
+probiotic features of these isolates, and evaluated the effects of a selected 
+strain, Lactobacillus salivarius CML352, on the production performance and gut 
+health of the late-phase laying hens. The results showed that the isolates 
+varied much in probiotic properties, among which L. salivarius CML352 displayed 
+high acid and bile salt tolerance, high hydrophobicity, auto-aggregation, and 
+antibacterial activities. Whole genome sequencing analysis showed that CML352 
+was closely related to a strain isolated from human fecal samples, but had 
+different functional potentials. Dietary supplementary of L. salivarius CML352 
+significantly reduced the Firmicutes to Bacteroidetes ratio, increased the 
+expression of Muc-2, and decreased the expression of MyD88, IFN-γ, and TLR-4. 
+Furthermore, strain CML352 reduced the birds' abdominal fat deposition, and 
+improved egg quality. Taken together, this study indicated that the newly 
+isolated L. salivarius strain might be a worthy probiotic with positive impacts 
+on the intestinal health and production performance of late-phase laying hens.
+
+DOI: 10.3390/microorganisms10040726
+PMCID: PMC9029475
+PMID: 35456777
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+33. Lett Appl Microbiol. 2022 Nov;75(5):1160-1170. doi: 10.1111/lam.13783. Epub 2022 
+Jul 19.
+
+Synergistic effects of probiotic Bifidobacterium isolated from chicken's 
+intestine in combination with polyvinylpyrrolidone on reduction of aflatoxin 
+B(1).
+
+Aalipanah S(1), Fazeli MR(2), Akhavan Sepahi A(1), Shariatmadari F(3).
+
+Author information:
+(1)Department of Microbiology, Faculty of Biological Sciences, Islamic Azad 
+University, North Tehran Branch, Tehran, Iran.
+(2)Department of Drug and Food Control, Pharmaceutical Quality Assurance 
+Research Center, Faculty of Pharmacy, Tehran University, Tehran, Iran.
+(3)Department of Clinical Biochemistry, Faculty of Medical Sciences, Tarbiat 
+Modares University, Tehran, Iran.
+
+Food contamination with aflatoxin is one of the most critical concerns of health 
+professionals. One of the best ways to reduce aflatoxin content in food is 
+probiotics. Therefore, this study was performed to isolate Bifidobacterium from 
+the chick's intestine; evaluate its probiotic activities and its application 
+with Polyvinylpyrrolidone (PVP) to reduce aflatoxin B1 (AFB1 ) in the medium 
+were investigated. Samples were isolated from the chick's intestine, and 
+Bifidobacterium was isolated and identified by biochemical and molecular 
+methods. Next, the potential probiotic characterization was assessed. 
+Afterwards, the effect of selected isolate and PVP on reducing AFB1 in the 
+medium was studied using ELISA and HPLC. Biochemical and molecular evaluations 
+indicated isolation of Bifidobacterium bifidum strain from chick's intestine. 
+One of the B. bifidum strains was selected for the next steps, which showed 
+potential probiotic characterization and the ability to reduce the concentration 
+of AFB1 in the medium (50% reduction). When used in combination with PVP showed 
+synergistic effects in reducing the concentration of AFB1 from the medium (up to 
+90%). In the conclusion, it was found that selected B. bifidum strains and PVP 
+could have synergistic effects in reducing AFB1 toxin in a medium up to 90%.
+
+© 2022 Society for Applied Microbiology.
+
+DOI: 10.1111/lam.13783
+PMID: 35778982 [Indexed for MEDLINE]
+
+
+34. Microbiol Resour Announc. 2018 Nov 21;7(20):e01251-18. doi: 
+10.1128/MRA.01251-18. eCollection 2018 Nov.
+
+Complete Genome Sequence of Lactobacillus reuteri SKKU-OGDONS-01, Isolated from 
+a Chicken's Small Intestine.
+
+Kim D(1), Cho MJ(1), Cho S(1), Lee Y(1), Byun SJ(2), Lee S(1).
+
+Author information:
+(1)Department of Genetic Engineering, Sungkyunkwan University, Seobu-ro, 
+Jangan-gu, Suwon-si, Gyeonggi-do, Republic of Korea.
+(2)Animal Biotechnology Division, National Institute of Animal Science, Rural 
+Development Administration, Kongjwipatjwi-ro, Iseo-myeon, Wanju_Gun, 
+Jeollabuk-do, Republic of Korea.
+
+Lactobacillus reuteri SKKU-OGDONS-01 is a potentially indigenous probiotic 
+strain isolated from the small intestine of a 27-week-old chicken. The complete 
+genome of L. reuteri SKKU-OGDONS-01 comprises a single circular chromosome. Its 
+length is 2,259,968 bp, with a G+C content of 38.9%.
+
+DOI: 10.1128/MRA.01251-18
+PMCID: PMC6256620
+PMID: 30533821
+
+
+35. Vet World. 2022 Feb;15(2):324-330. doi: 10.14202/vetworld.2022.324-330. Epub 
+2022 Feb 14.
+
+Efficacy of dietary supplementary probiotics as substitutes for antibiotic 
+growth promoters during the starter period on growth performances, carcass 
+traits, and immune organs of male layer chicken.
+
+Agustono B(1), Lokapirnasari WP(1), Yunita MN(2), Kinanti RN(3), Cesa AE(3), 
+Windria S(4).
+
+Author information:
+(1)Department of Veterinary Science, Division of Animal Husbandry, Faculty of 
+Veterinary Medicine, Universitas Airlangga, Surabaya, Indonesia.
+(2)Department of Veterinary Science, Division of Pathology Veteriner, Faculty of 
+Veterinary Medicine, Universitas Airlangga, Surabaya, Indonesia.
+(3)Faculty of Veterinary Medicine, Universitas Airlangga, Surabaya, Indonesia.
+(4)Department of Biomedical Sciences, Division of Microbiology, Veterinary 
+Medicine Study Program, Faculty of Medicine, Universitas Padjadjaran, Bandung, 
+Indonesia.
+
+BACKGROUND AND AIM: With the increased concerns about global protein supply, 
+chicken meat, especially from male layer chicken, constitutes an alternative in 
+terms of quality and carcass traits. Probiotics have been proposed for replacing 
+antibiotic growth promoters (AGPs), which have been prohibited as poultry 
+supplement feeds. The present study aimed to determine the efficacy of dietary 
+supplementary probiotics during the starter period on growth performances, 
+carcass traits, and immune organs of male layer chicken.
+MATERIALS AND METHODS: In this study, one hundred and eighty 1-day-old male 
+chicks from the strain ISA brown were used. They were divided into six groups 
+according to the feed: 100% basal feed (T0), basal feed+2.5 g AGP/kg feed (T1), 
+basal feed+probiotics 1 mL/kg feed (T2), basal feed+probiotics 3 mL/kg feed 
+(T3), basal feed+probiotics 4 mL/kg feed (T4), and basal feed+probiotics 5 mL/kg 
+feed (T5). Probiotics (Lactobacillus acidophilus, Lactobacillus plantarum, and 
+Bifidobacterium spp.) were given at a concentration of 1.2×109 colony-forming 
+unit/mL. Virginiamycin was used as AGP. ISA brown layer chicken was treated for 
+21 days. Growth performances (body weight, feed consumption, and feed conversion 
+ratio [FCR]), carcass traits (weight at slaughter, weight of the carcass, breast 
+muscles, liver, lungs, kidneys, and heart), immune organs (spleen, thymus, and 
+bursa of Fabricius), and non-edible organs (head, legs, and wings) were 
+analyzed.
+RESULTS: Probiotic supplementation at 4 and 5 mL/kg feed (T4 and T5) during the 
+starter phase improved the body weight, FCR, and feed consumption. The weight at 
+slaughter, weight of the carcass, breast muscles, and liver from the T4 and T5 
+groups were significantly greater than those in the other treatment groups. In 
+addition, the weight of the heart, lungs, and kidneys was increased in the T1, 
+T2, T3, T4, and T5 groups compared with that measured in the T0 group. 
+Furthermore, there were significant differences regarding the immune organs 
+between the T0 and the other treatment groups. The weight of the head, legs, and 
+wings was also greater in the probiotic and AGP supplementation groups (T1, T2, 
+T3, T4, and T5) than that in the basal feed group (T0).
+CONCLUSION: Probiotic (L. acidophilus, L. plantarum, and Bifidobacterium spp.) 
+supplementation at 4 and 5 mL/kg feed during the starter period can be used to 
+improve the growth, carcass traits, and weight of immune organs in male layer 
+chicken.
+
+Copyright: © Agustono, et al.
+
+DOI: 10.14202/vetworld.2022.324-330
+PMCID: PMC8980395
+PMID: 35400938
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+36. Microbiol Resour Announc. 2020 Sep 24;9(39):e00501-20. doi: 
+10.1128/MRA.00501-20.
+
+Complete Genome Sequences of Lactobacillus Strains C25 and P38, Isolated from 
+Chicken Cecum.
+
+Hassan HM(1), Mendoza M(2), Rezvani M(2), Koci MD(2), Dickey AN(3), Scholl 
+EH(3).
+
+Author information:
+(1)Prestage Department of Poultry Science, North Carolina State University, 
+Raleigh, North Carolina, USA hmhassan@ncsu.edu.
+(2)Prestage Department of Poultry Science, North Carolina State University, 
+Raleigh, North Carolina, USA.
+(3)Bioinformatics Research Center, North Carolina State University, Raleigh, 
+North Carolina, USA.
+
+We report the complete circular genome sequences of Lactobacillus crispatus 
+strain C25, its plasmid, and Lactobacillus animalis strain P38; both strains 
+were isolated from the cecum of 4-week-old chickens. These isolates represent 
+potential probiotic strains for poultry.
+
+Copyright © 2020 Hassan et al.
+
+DOI: 10.1128/MRA.00501-20
+PMCID: PMC7516137
+PMID: 32972926
+
+
+37. J Microbiol Methods. 2005 Mar;60(3):353-63. doi: 10.1016/j.mimet.2004.10.013.
+
+Modified electroporation protocol for Lactobacilli isolated from the chicken 
+crop facilitates transformation and the use of a genetic tool.
+
+Mason CK(1), Collins MA, Thompson K.
+
+Author information:
+(1)Queen's University of Belfast, Newforge Lane, Belfast, BT9 5PX, Northern 
+Ireland, UK.
+
+Isolates of Lactobacillus spp. from a collection of potentially probiotic 
+strains isolated from the crops of broiler chickens were found to be 
+non-electrotransformable using published techniques. One strain of Lactobacillus 
+salivarius was shown to develop electrocompetence when an overnight culture was 
+incubated in fresh medium. The effect was enhanced if glycine was incorporated 
+into the fresh growth medium. When these modifications were applied to a number 
+of other crop isolates of Lactobacillus spp., electrocompetence could be 
+detected in approximately half the strains tested. Two temperature sensitive 
+plasmid vectors that had been used for the genetic modification of other lactic 
+acid bacteria were introduced into a crop strain of Lb. salivarius. Both showed 
+temperature sensitivity at 42 degrees C and above but were relatively stable at 
+37 degrees C. The genetic tool harbouring an IS element allowed the delivery of 
+the plasmid to multiple independent sites in the host chromosome. Harnessing 
+such genetic tools will facilitate the future genetic analysis of the host 
+bacterium.
+
+DOI: 10.1016/j.mimet.2004.10.013
+PMID: 15649537 [Indexed for MEDLINE]
+
+
+38. Microbiologyopen. 2017 Oct;6(5):e00512. doi: 10.1002/mbo3.512. Epub 2017 Jul 24.
+
+In vitro characteristics of Lactobacillus spp. strains isolated from the chicken 
+digestive tract and their role in the inhibition of Campylobacter colonization.
+
+Kobierecka PA(1), Wyszyńska AK(1), Aleksandrzak-Piekarczyk T(2), Kuczkowski 
+M(3), Tuzimek A(1), Piotrowska W(1), Górecki A(1), Adamska I(4), Wieliczko A(3), 
+Bardowski J(2), Jagusztyn-Krynicka EK(1).
+
+Author information:
+(1)Faculty of Biology, Department of Bacterial Genetics, Institute of 
+Microbiology, University of Warsaw, Warsaw, Poland.
+(2)Polish Academy of Sciences, Institute of Biochemistry and Biophysics, Warsaw, 
+Poland.
+(3)Faculty of Veterinary Medicine, Department of Epizootiology and the Clinic of 
+Birds and Exotic Animals, University of Environmental and Life Sciences, 
+Wrocław, Poland.
+(4)Faculty of Biology, Department of Animal Physiology, Institute of Zoology, 
+University of Warsaw, Warsaw, Poland.
+
+Campylobacter jejuni/coli infections are the leading cause of bacterial 
+diarrheal illnesses in humans. Many epidemiological studies indicate that 
+improperly prepared meat from chickens that carry a high load of Campylobacter 
+in their intestinal tracts is the key source of human infections. LAB, mainly 
+members of the Lactococcus and Lactobacillus genera, increasingly have been 
+tested as vehicles for the delivery of heterologous bacterial or viral antigens 
+to animal mucosal immune systems. Thus, the objective of this study was to 
+isolate, identify, and characterize Lactobacillus spp. strains isolated from 
+chickens bred in Poland. Their ability to decrease the level of bird gut 
+colonization by C. jejuni strain was also analyzed. First, the influence of the 
+different chicken rearing systems was evaluated, especially the effect of diets 
+on the Lactobacillus species that colonize the gut of chickens. Next, selected 
+strains were analyzed in terms of their anti-Campylobacter activity in vitro; 
+potential probiotic traits such as adhesion properties, bile and low pH 
+tolerance; and their ability to grow on a defined carbon source. Given that 
+improperly prepared chicken meat is the main source of human infection by 
+Campylobacter, the selected strains were also assessed for their ability to 
+inhibit Campylobacter colonization in the bird's intestine. These experiments 
+revealed enormous physiological diversity among the Lactobacillus genus strains. 
+Altogether, our results showed that L. plantarum strains isolated from the 
+digestive tracts of chickens bred in Poland displayed some probiotic attributes 
+in vitro and were able to decrease the level of bird gut colonization by C. 
+jejuni strain. This suggests that they can be employed as vectors to deliver 
+Campylobacter immunodominant proteins to the bird's immune system to strengthen 
+the efficacy of in ovo vaccination.
+
+© 2017 The Authors. MicrobiologyOpen published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/mbo3.512
+PMCID: PMC5635155
+PMID: 28736979 [Indexed for MEDLINE]
+
+
+39. Antibiotics (Basel). 2022 Aug 24;11(9):1147. doi: 10.3390/antibiotics11091147.
+
+The Detection of Potential Native Probiotics Lactobacillus spp. against 
+Salmonella Enteritidis, Salmonella Infantis and Salmonella Kentucky ST198 of 
+Lebanese Chicken Origin.
+
+El Hage R(1)(2), El Hage J(3), Snini SP(2), Ammoun I(4), Touma J(1), Rachid 
+R(1), Mathieu F(2), Sabatier JM(5), Abi Khattar Z(6), El Rayess Y(7).
+
+Author information:
+(1)Food Microbiology Laboratory, Lebanese Agricultural Research Institute 
+(LARI), Fanar Station, Jdeideh El-Metn P.O. Box 901965, Lebanon.
+(2)Laboratoire de Génie Chimique, UMR 5503 CNRS/INPT/UPS, INP-ENSAT, 1, 
+Université de Toulouse, Avenue de l'Agrobiopôle, 31326 Castanet-Tolosan, France.
+(3)Animal Health Laboratory, Lebanese Agricultural Research Institute (LARI), 
+Fanar Station, Jdeideh El-Metn P.O. Box 901965, Lebanon.
+(4)Milk and Milk Products Laboratory, Lebanese Agricultural Research Institute 
+(LARI), Fanar Station, Jdeideh El-Metn P.O. Box 901965, Lebanon.
+(5)CNRS UMR 7051, INP, Inst Neurophysiopathol, Aix-Marseille Université, 13385 
+Marseille, France.
+(6)Microbiology/Tox-Ecotoxicology Team, Laboratory of Georesources, Geosciences 
+and Environment (L2GE), Faculty of Sciences 2, Lebanese University, Campus 
+Fanar, Jdeideh El-Metn P.O. Box 90656, Lebanon.
+(7)Faculty of Agricultural and Food Sciences, Holy Spirit University of Kaslik, 
+Jounieh P.O. Box 446, Lebanon.
+
+Salmonella continues to be a major threat to public health, especially with 
+respect to strains from a poultry origin. In recent years, an increasing trend 
+of antimicrobial resistance (AMR) in Salmonella spp. was observed due to the 
+misuse of antibiotics. Among the approaches advised for overcoming AMR, 
+probiotics from the Lactobacillus genus have increasingly been considered for 
+use as effective prophylactic and therapeutic agents belonging to the indigenous 
+microbiota. In this study, we isolated lactobacilli from the ilea and ceca of 
+hens and broilers in order to evaluate their potential probiotic properties. 
+Four species were identified as Limosilactobacillusreuteri (n = 22, 45.8%), 
+Ligilactobacillussalivarius (n = 20, 41.6%), Limosilactobacillus fermentum (n = 
+2, 4.2%) and Lactobacillus crispatus (n = 1, 2%), while three other isolates (n 
+= 3, 6.25%) were non-typable. Eight isolates, including 
+Ligilactobacillussalivarius (n = 4), Limosilactobacillusreuteri (n = 2), L. 
+crispatus (n = 1) and Lactobacillus spp. (n = 1) were chosen on the basis of 
+their cell surface hydrophobicity and auto/co-aggregation ability for further 
+adhesion assays using the adenocarcinoma cell line Caco-2. The adhesion rate of 
+these strains varied from 0.53 to 10.78%. Ligilactobacillussalivarius A30/i26 
+and 16/c6 and Limosilactobacillus reuteri 1/c24 showed the highest adhesion 
+capacity, and were assessed for their ability to compete in and exclude the 
+adhesion of Salmonella to the Caco-2 cells. Interestingly, 
+Ligilactobacillussalivarius 16/c6 was shown to significantly exclude the 
+adhesion of the three Salmonella serotypes, S. Enteritidis, S. Infantis and S. 
+Kentucky ST 198, to Caco-2 cells. The results of the liquid co-culture assays 
+revealed a complete inhibition of the growth of Salmonella after 24 h. 
+Consequently, the indigenous Ligilactobacillussalivarius 16/c6 strain shows 
+promising potential for use as a preventive probiotic added directly to the diet 
+for the control of the colonization of Salmonella spp. in poultry.
+
+DOI: 10.3390/antibiotics11091147
+PMCID: PMC9495222
+PMID: 36139927
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+40. Genome Announc. 2016 Nov 3;4(6):e01223-16. doi: 10.1128/genomeA.01223-16.
+
+Draft Genome Sequence of Lactobacillus crispatus C25 Isolated from Chicken 
+Cecum.
+
+Rezvani M(1), Mendoza M(1), Koci MD(1), Daron C(2), Levy J(3), Hassan HM(4)(2).
+
+Author information:
+(1)Prestage Department of Poultry Science, North Carolina State University, 
+Raleigh, North Carolina, USA.
+(2)Microbiology Graduate Program, North Carolina State University, Raleigh, 
+North Carolina, USA.
+(3)RTI International, Research Triangle Park, North Carolina, USA.
+(4)Prestage Department of Poultry Science, North Carolina State University, 
+Raleigh, North Carolina, USA hmhassan@ncsu.edu.
+
+Lactic acid bacteria are important members of the gut microbiota of humans and 
+animals. Here, we present the genome sequence of Lactobacillus crispatus strain 
+C25, originally isolated from the cecum of 4-week-old chicken fed a standard 
+diet. This isolate represents a potential probiotic strain for poultry.
+
+Copyright © 2016 Rezvani et al.
+
+DOI: 10.1128/genomeA.01223-16
+PMCID: PMC5095473
+PMID: 27811103
+
+
+41. Front Microbiol. 2022 Jul 8;13:910616. doi: 10.3389/fmicb.2022.910616. 
+eCollection 2022.
+
+Bacillus subtilis PS-216 Spores Supplemented in Broiler Chicken Drinking Water 
+Reduce Campylobacter jejuni Colonization and Increases Weight Gain.
+
+Šimunović K(1)(2), Sahin O(3), Erega A(1)(2), Štefanič P(2), Zhang Q(4), Mandic 
+Mulec I(2), Smole Možina S(1), Klančnik A(1).
+
+Author information:
+(1)Department of Food Science and Technology, Biotechnical Faculty, University 
+of Ljubljana, Ljubljana, Slovenia.
+(2)Department of Microbiology, Biotechnical Faculty, University of Ljubljana, 
+Ljubljana, Slovenia.
+(3)Veterinary Diagnostic and Production Animal Medicine, College of Veterinary 
+Medicine, Iowa State University, Ames, IA, United States.
+(4)Veterinary Microbiology and Preventive Medicine, College of Veterinary 
+Medicine, Iowa State University, Ames, IA, United States.
+
+Campylobacter jejuni is the leading cause of bacterial gastroenteritis, or 
+campylobacteriosis, in humans worldwide, and poultry serves as a major source of 
+infection. To reduce the risk associated with C. jejuni transmission via poultry 
+meat, effective interventions during poultry production are needed, and the use 
+of probiotics is a promising approach. In this study, 15 Bacillus subtilis 
+strains were initially screened for their anti-Campylobacter activities. B. 
+subtilis PS-216 strain demonstrated the best anti-Campylobacter activity against 
+15 C. jejuni isolates when examined using in vitro co-cultures. To evaluate the 
+suitability of B. subtilis PS-216 for probiotic use, its susceptibility to eight 
+clinically important antimicrobials and simulated gastric conditions was 
+investigated. B. subtilis PS-216 was sensitive to all of the tested antibiotics. 
+Although vegetative cells were sensitive to gastric conditions, B. subtilis 
+PS-216 spores were highly resistant. We further evaluated the use of a B. 
+subtilis PS-216 spore preparation (2.5 × 106 CFU/mL water) to prevent and/or 
+reduce C. jejuni colonization in broiler chickens in vivo. Compared to the 
+untreated group, significantly lower Campylobacter counts were detected in caeca 
+of broilers continuously treated with B. subtilis PS-216 spores in their 
+drinking water. Furthermore, broilers continuously treated with B. subtilis 
+PS-216 spores showed improved weight gain, compared to the control group. 
+Together, these results demonstrate the potential of B. subtilis PS-216 for use 
+in poultry to reduce C. jejuni colonization and improve weight gain.
+
+Copyright © 2022 Šimunović, Sahin, Erega, Štefanič, Zhang, Mandic Mulec, Smole 
+Možina and Klančnik.
+
+DOI: 10.3389/fmicb.2022.910616
+PMCID: PMC9304915
+PMID: 35875550
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

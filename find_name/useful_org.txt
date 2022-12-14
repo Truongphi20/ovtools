@@ -1,0 +1,41 @@
+Enterococcus faecium, E. faecium
+Bacillus cereus
+Lactobacillus curvatus, Bacillus subtilis, B. subtilis
+Lactobacillus paracasei
+Saccharomyces cerevisiae.
+Clostridium perfringens, Faecalibacterium prausnitzii
+L. ingluviei
+S. cerevisiae
+Enterococcus faecium, Caenorhabditis elegans., E. faecium, C. elegans
+Lactobacillus reuteri, L. reuteri
+Lactobacillus salivarius, L. salivarius
+Lactobacillus reuteri
+Bacillus subtilis
+Lactobacillus crispatus, Lactobacillus crispatus., L. crispatus, L. crispatus.
+Bacillus subtilis, Bacillus licheniformis., B. subtilis, B. licheniformis
+Lactobacillus rhamnosus, L. rhamnosus
+Lactobacillus salivarius
+L. fermentum, L. animalis
+Lactobacillus casei., Lactobacillus casei
+
+Lactobacillus animalis, Lactobacillus reuteri
+
+Lactobacillus plantarum, L. plantarum, Lactobacillus fermentum
+Lactobacillus acidophilus, L. acidophilus, Lactobacillus vaginalis, Lactobacillus salivarius, Lactobacillus reuteri, L. salivarius, L. vaginalis, L. reuteri
+Lactobacillus bearing, L. crispatus
+Lactobacillus acidophilus, L. acidophilus
+Lactobacillus rhamnosus
+L. agilis, L. salivarius
+Lactobacillus salivarius
+Bacillus subtilis, S. Typhimurium
+Lactobacillus rhamnosus, Propionibacterium freudenreichii, Lactococcus lactis
+Lactobacillus salivarius, L. salivarius
+Bifidobacterium bifidum, B. bifidum
+Lactobacillus reuteri, L. reuteri
+
+Lactobacillus crispatus, Lactobacillus animalis
+Lactobacillus salivarius
+L. plantarum
+Limosilactobacillus fermentum, Lactobacillus crispatus, L. crispatus, Limosilactobacillus reuteri
+Lactobacillus crispatus
+Bacillus subtilis, B. subtilis
